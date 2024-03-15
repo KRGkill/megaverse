@@ -1,6 +1,6 @@
-# Mwgaverse
+# Megaverse
 
-Api of the Megaverse application
+Api of the Megaverse Croosmint application
 
 ## Getting started
 
